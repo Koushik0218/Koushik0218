@@ -1,0 +1,46 @@
+{
+    "foodItemName": "Apple",
+    "foodGroup": "Fruits",
+    "description": "A crisp and sweet fruit with a refreshing taste. Apples are rich in vitamins, fiber, and antioxidants, making them a healthy and delicious snack.",
+    "nutritionalInformation": {
+      "calories": 95,
+      "macronutrients": {
+        "proteins": 0.5,
+        "fats": {
+          "saturated": 0.1,
+          "unsaturated": 0.2,
+          "trans": 0
+        },
+        "carbohydrates": 25,
+        "sugar": 19
+      },
+      "micronutrients": {
+        "vitamins": {
+          "A": 1,
+          "C": 14,
+          "D": 0
+        },
+        "minerals": {
+          "iron": 0.1,
+          "calcium": 7,
+          "potassium": 195
+        },
+        "otherNutrients": {
+          "fiber": 4
+        }
+      },
+      "sodium": 0,
+      "cholesterol": 0
+    },
+    "servingSize": "1 medium-sized apple (182g)",
+    "allergens": ["None"],
+    "ingredients": ["Apple"],
+    "preparationMethods": ["Freshly picked"],
+    "certifications": ["Organic"],
+    "countryOfOrigin": "Various",
+    "brandOrManufacturer": "Harvest Fresh",
+    "dietaryRestrictions": ["Gluten-free", "Vegetarian", "Vegan"],
+    "healthBenefits": ["High in fiber", "Rich in vitamin C", "Low in calories"],
+    "bestPractices": "Store apples in the refrigerator for longer freshness. Wash thoroughly before consumption."
+  }
+  
